@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ComputerGraphics" targetName="ComputerGraphics" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d5ba933-dd1e-494e-944e-a3dade9f3ffe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="23h8fzSqgT6HkXDdWghOTuvPBWn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ComputerGraphics" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ComputerGraphics" TARGET_NAME="ComputerGraphics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ComputerGraphics" RUN_TARGET_NAME="ComputerGraphics">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d5ba933-dd1e-494e-944e-a3dade9f3ffe" name="Default Changelist" comment="" />
+      <created>1642175070395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642175070395</updated>
+      <workItem from="1642175074950" duration="76000" />
+      <workItem from="1642274139388" duration="2057000" />
+      <workItem from="1642282297542" duration="5243000" />
+      <workItem from="1642415867497" duration="20106000" />
+      <workItem from="1642444904013" duration="26165000" />
+      <workItem from="1642677304277" duration="1045000" />
+      <workItem from="1642684593301" duration="23354000" />
+      <workItem from="1642852626533" duration="10838000" />
+      <workItem from="1643024092589" duration="15444000" />
+      <workItem from="1643210569776" duration="1780000" />
+      <workItem from="1643212414252" duration="3974000" />
+      <workItem from="1643220795538" duration="4434000" />
+      <workItem from="1643273672213" duration="7873000" />
+      <workItem from="1643300041141" duration="634000" />
+      <workItem from="1643300852377" duration="7578000" />
+      <workItem from="1643321541848" duration="387000" />
+      <workItem from="1643322441245" duration="26000" />
+      <workItem from="1643365812858" duration="54000" />
+      <workItem from="1643366801917" duration="16000" />
+      <workItem from="1643367226162" duration="2879000" />
+      <workItem from="1643384393046" duration="15000" />
+      <workItem from="1644019960969" duration="73000" />
+      <workItem from="1644020097060" duration="19000" />
+      <workItem from="1644020136707" duration="8000" />
+      <workItem from="1644020867454" duration="26000" />
+      <workItem from="1644251068932" duration="187000" />
+      <workItem from="1645115071252" duration="14000" />
+      <workItem from="1645225707494" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
