@@ -4,7 +4,7 @@ Computer graphics are used in the entertainment industry in video games and cine
 
 These projects aim to provide and consolidate the theoretical-practical bases in the synthesis of visual information, as well as present more advanced techniques.
 
-# Goals
+## Goals
 
 The goal is to develop basic aspects of a 3D engine using a framework.
 
