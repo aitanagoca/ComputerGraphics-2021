@@ -1,0 +1,3 @@
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics_ilumination/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics_ilumination/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics_ilumination/cmake-build-release/CMakeFiles/ComputerGraphics.dir
