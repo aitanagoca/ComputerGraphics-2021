@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/framework.h
+vector
+-
+cmath
+-
+
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/image.cpp
+image.h
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/image.h
+
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/image.h
+string.h
+-
+stdio.h
+-
+iostream
+-
+framework.h
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/framework.h
+

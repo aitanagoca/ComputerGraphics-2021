@@ -1,0 +1,17 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics
+-- Found Clang
+-- Compiler: Apple Clang
+-- Using architecture x86_64
+-- Using Compiler IDE: xcode
+-- Using platform Apple
+-- Creating ComputerGraphics project.
+-- OPENGL_INCLUDE_DIR: /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework
+-- OPENGL_LIBRARIES: /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework;/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework
+-- GLUT_INCLUDE_DIR: /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/GLUT.framework/Headers
+-- GLUT_LIBRARY: /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/GLUT.framework;/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/Cocoa.framework
+-- SDL installed using homebrew
+-- SDL2_INCLUDE_DIRS: /usr/local/include
+-- SDL2_LIBRARY: /usr/local/lib/libSDL2.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-debug

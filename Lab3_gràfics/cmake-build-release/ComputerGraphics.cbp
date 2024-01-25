@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ComputerGraphics"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerGraphics">
+				<Option output="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/ComputerGraphics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src"/>
+					<Add directory="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/main"/>
+					<Add directory="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 ComputerGraphics"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerGraphics/fast">
+				<Option output="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/ComputerGraphics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src"/>
+					<Add directory="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/main"/>
+					<Add directory="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 ComputerGraphics/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/application.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/application.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/camera.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/camera.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/framework.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/framework.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/image.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/image.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/mesh.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/mesh.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/utils.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/framework/utils.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/main/includes.h">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/src/main/main.cpp">
+			<Option target="ComputerGraphics"/>
+		</Unit>
+		<Unit filename="/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
