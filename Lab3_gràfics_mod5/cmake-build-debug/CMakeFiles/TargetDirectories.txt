@@ -1,0 +1,3 @@
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics_mod5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics_mod5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aitanagonzalezcardenas/Downloads/Lab3_gràfics_mod5/cmake-build-debug/CMakeFiles/ComputerGraphics.dir
