@@ -24,6 +24,6 @@ The goal is to develop basic aspects of a 3D engine using a framework.
 
 👥 Group: (P102)
 
-Aitana González
+Aitana González (U186651)
 
-Álvaro Jiménez
+Álvaro Jiménez (U186356)
